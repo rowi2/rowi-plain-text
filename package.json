@@ -1,0 +1,25 @@
+{
+  "name": "rowi-plain-text",
+  "version": "0.1.0",
+  "description": "A resizable, multi-line, plain text editor web component",
+  "main": "row-input.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aFelipeSP/rowi-plain-text.git"
+  },
+  "keywords": [
+    "web-component"
+  ],
+  "author": "Andres Felipe Sierra Parra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aFelipeSP/rowi-plain-text/issues"
+  },
+  "homepage": "https://github.com/aFelipeSP/rowi-plain-text#readme",
+  "dependencies": {
+  }
+}
